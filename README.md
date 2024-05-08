@@ -28,7 +28,7 @@ This is a paper repository for our project "conformal prediction: Data perspecti
 5. [Approximating full conformal prediction at scale via influence functions](https://ojs.aaai.org/index.php/AAAI/article/view/25814/25586)
 6. [Improving uncertainty quantification of deep classifiers via neighborhood conformal prediction: novel algorithm and theoretical analysis](https://ojs.aaai.org/index.php/AAAI/article/download/25936/25708)
 7. [Image-to-image regression with distribution-free uncertainty quantification and applications in imaging](https://proceedings.mlr.press/v162/angelopoulos22a/angelopoulos22a.pdf)
-8. [Conffusion: Confidence intervals for diffusion models]([https://arxiv.org/pdf/2402.10978](https://arxiv.org/pdf/2211.09795)
+8. [Conffusion: Confidence intervals for diffusion models](https://arxiv.org/pdf/2211.09795)
 9. [Deep learning with conformal prediction for hierarchical analysis of large-scale whole-slide tissue images](https://ieeexplore.ieee.org/iel7/6221020/6363502/09103229.pdf)
 10. [Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems](https://ieeexplore.ieee.org/iel7/34/4359286/10360418.pdf)
 11. [Kandinsky Conformal Prediction: Efficient Calibration of Image Segmentation Algorithms](https://arxiv.org/pdf/2311.11837)
